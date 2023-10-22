@@ -34,4 +34,4 @@ async def on_message(message):
         await message.channel.send("De momento, ha hecho que la temperatura aumente 1.5ºC a nivel global. Además, está poniendo en peligro a muchas especies, como los osos panda y los pingüinos")
     elif message.content.startswith('¬adiós'):
         await message.channel.send("Adiós!")
-client.run("MTE1ODA1NTY4OTAwOTI1NDU0MA.GWtOIZ.6UbqZXH-PtJ_z4oDmeNtb7BBp5foDcLfyW4VgI")
+client.run("Idk")
